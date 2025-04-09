@@ -1,0 +1,14 @@
+[My Computer]
+My Computer = "168.5.154.81"
+
+[NI-sbRIO-9627-01fa05f5]
+NI-sbRIO-9627-01fa05f5 = "169.254.36.141"
+
+[RT myRIO Target]
+RT myRIO Target = "0.0.0.0"
+
+[RT Single-Board RIO Target]
+RT Single-Board RIO Target = "169.254.206.124"
+
+[sbRIO9627-Office-Debugging]
+sbRIO9627-Office-Debugging = "169.254.206.124"
