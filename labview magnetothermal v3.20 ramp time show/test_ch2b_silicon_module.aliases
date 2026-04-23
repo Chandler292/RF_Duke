@@ -1,8 +1,8 @@
 [My Computer]
-My Computer = "168.5.154.81"
+My Computer = "172.25.12.6"
 
 [NI-sbRIO-9627-01fa05f5]
-NI-sbRIO-9627-01fa05f5 = "169.254.36.141"
+NI-sbRIO-9627-01fa05f5 = "169.254.206.124"
 
 [RT myRIO Target]
 RT myRIO Target = "0.0.0.0"
